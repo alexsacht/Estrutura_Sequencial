@@ -9,4 +9,4 @@ lado_b = int(input('Digite o valor do outro lado: '))
 
 metro_quadrado = lado_a * lado_b
 
-print(f'O quadrado tem {metro_quadrado}m2')
+print(f'A área tem {metro_quadrado}m2')
